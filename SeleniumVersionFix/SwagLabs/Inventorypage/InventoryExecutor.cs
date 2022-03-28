@@ -10,6 +10,7 @@ using SeleniumVersionFix.SwagLabs.LoginPage;
 namespace SeleniumVersionFix.SwagLabs.Inventorypage
 {   
     [TestClass]
+    //commit
     public class InventoryExecutor
     {
         public TestContext instance;
