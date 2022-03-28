@@ -1,0 +1,58 @@
+<?xml version = "1.0"?>
+<Prototype>
+	<Execution>
+		
+		
+		
+		<login>
+		
+			<browser>chrome</browser>
+			<browserType></browserType>
+			<height>1600</height>
+			<width>900</width>
+			<deleteCookies>true</deleteCookies>
+
+			<username>standard_user</username>
+			<password>secret_sauce</password>	
+				
+	
+		</login>
+		
+		<dropdown>
+		
+			<browser>chrome</browser>
+			<browserType></browserType>
+			<height>1600</height>
+			<width>900</width>
+			<deleteCookies>true</deleteCookies>
+
+			<username>standard_user</username>
+			<password>secret_sauce</password>
+			
+			<appliedFilter>a-z</appliedFilter>
+				
+	
+		</dropdown>
+		
+		
+		<tableTest>
+		
+			<browser>chrome</browser>
+			<browserType></browserType>
+			<height>1600</height>
+			<width>900</width>
+			<deleteCookies>true</deleteCookies>
+		
+		</tableTest>
+		
+		
+		
+		
+
+	</Execution>
+
+	
+
+	
+
+</Prototype>

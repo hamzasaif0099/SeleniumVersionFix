@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="fd3db6bc-5869-4433-8a0d-07185d5f50dd" name="CRKRL-SAIFFHAM1$@CRKRL-SAIFFHAM1 2022-03-15 14:22:24" runUser="NT AUTHORITY\SYSTEM" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2022-03-15T14:22:24.8840756+05:00" queuing="2022-03-15T14:22:24.8840756+05:00" start="2022-03-15T14:22:21.5064621+05:00" finish="2022-03-15T14:22:24.9186922+05:00" />
+  <TestSettings name="default" id="cab9f9d3-093c-48c4-b3ed-8c23c8a3b1db">
+    <Deployment runDeploymentRoot="CRKRL-SAIFFHAM1$_CRKRL-SAIFFHAM1_2022-03-15_14_22_24" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="1db1d8b9-1f51-4658-ac7b-315d77ae2a2f" testId="b69378ea-f115-4cd9-a0e4-05a38bc255db" testName="LoginTest (Data Row 0)" computerName="CRKRL-SAIFFHAM1" duration="00:00:01.9243750" startTime="2022-03-15T14:22:22.4973362+05:00" endTime="2022-03-15T14:22:24.7857484+05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1db1d8b9-1f51-4658-ac7b-315d77ae2a2f" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="LoginTest (Data Row 0)" storage="c:\users\saiffham\source\repos\seleniumversionfix\seleniumversionfix\bin\debug\seleniumversionfix.dll" id="b69378ea-f115-4cd9-a0e4-05a38bc255db">
+      <TestCategory>
+        <TestCategoryItem TestCategory="Regression" />
+      </TestCategory>
+      <Execution id="1db1d8b9-1f51-4658-ac7b-315d77ae2a2f" />
+      <TestMethod codeBase="C:\Users\saiffham\source\repos\SeleniumVersionFix\SeleniumVersionFix\bin\Debug\SeleniumVersionFix.dll" adapterTypeName="executor://mstestadapter/v2" className="SeleniumVersionFix.SwagLabs.Login.LoginExecutor" name="LoginTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="b69378ea-f115-4cd9-a0e4-05a38bc255db" executionId="1db1d8b9-1f51-4658-ac7b-315d77ae2a2f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+</TestRun>
